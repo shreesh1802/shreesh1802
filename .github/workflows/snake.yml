@@ -20,6 +20,7 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.svg
+            dist/github-snake-custom.svg?color_snake=%23a855f7&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

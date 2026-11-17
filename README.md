@@ -1,23 +1,36 @@
-## Hi there 👋
+# Hi there! 🔥
 
-
+## My name is Shreesh <!-- add your full surname -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=shreesh1802&label=Profile+views&color=brightgreen&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/shreesh1802?label=GitHub%20Followers&logo=github&style=flat)
 
 I'm a Computer Science student who loves building software that solves real-world problems.
 I'm skilled in **Python, C++, Dart, Flutter and JavaScript**, and I practise **DSA** regularly.
-I'm passionate about **AI/ML, MCP servers, forecasting and fintech for first-time borrowers**.
+I'm passionate about **AI/ML, computer vision, AI-agent safety and fintech**.
 
 ---
 
 ### 🌏 I'm based in India <!-- edit -->
 
-### 🔭 Currently working on [Sahayak](https://github.com/shreesh1802/Sahayak), a voice-first money coach (Alexa+ MCP add-on)
+### 🔭 Currently working on
+- [**Road Distress Management System**](https://github.com/shreesh1802/Distress_management_project): Flutter app + FastAPI AI backend that detects road damage from video and generates PDF/Excel reports
+- [**ProofPay / Tollgate**](https://github.com/shreesh1802/tollgate): pay for work only after it's proven. Two AI reviewers check photo evidence and a code-based policy layer decides whether PayPal can release money
 
 ### 🌱 Learning AI/ML, building a GPT from scratch with [neetcode-gpt](https://github.com/shreesh1802/neetcode-gpt)
 
 ### 🙋 Open to collaborations and hackathon teams
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**ProofPay (Tollgate)**](https://github.com/shreesh1802/tollgate) | Staged, evidence-verified payments on PayPal. The model proposes, code decides. Built for the PayPal AI Hackathon | JavaScript, Claude, PayPal API |
+| [**Road Distress Management**](https://github.com/shreesh1802/Distress_management_project) | Detects road distress in surveillance video, with a dual video review UI and PDF/Excel reports | Flutter, FastAPI, Python |
+| [**neetcode-gpt**](https://github.com/shreesh1802/neetcode-gpt) | A GPT built from scratch from ML course submissions | Python |
+| [**aqi_forecaster**](https://github.com/shreesh1802/aqi_forecaster) | Air quality index forecasting | Python |
 
 ---
 
@@ -33,7 +46,7 @@ I'm passionate about **AI/ML, MCP servers, forecasting and fintech for first-tim
 
 ## 🛠️ Skills
 
-[![Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,dart,flutter,pytorch,tensorflow,react,nodejs,docker,git,github,githubactions,vscode,pycharm,firebase,postgres,html,css,figma,notion&perline=11)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,dart,flutter,fastapi,pytorch,tensorflow,react,nodejs,docker,git,github,githubactions,vscode,pycharm,firebase,postgres,html,css,figma,notion&perline=12)](https://skillicons.dev)
 
 ---
 
@@ -55,9 +68,3 @@ I'm passionate about **AI/ML, MCP servers, forecasting and fintech for first-tim
 <div align="center">
   <img src="https://raw.githubusercontent.com/shreesh1802/shreesh1802/output/github-snake-custom.svg" alt="Contribution snake" />
 </div>
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

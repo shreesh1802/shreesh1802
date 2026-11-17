@@ -53,7 +53,7 @@ I'm passionate about **AI/ML, MCP servers, forecasting and fintech for first-tim
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shreesh1802/shreesh1802/output/github-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/shreesh1802/shreesh1802/output/github-snake-custom.svg" alt="Contribution snake" />
 </div>
 
 - 💬 Ask me about ...

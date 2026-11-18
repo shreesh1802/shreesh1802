@@ -57,7 +57,7 @@ I'm passionate about **AI/ML, computer vision, AI-agent safety and fintech**.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreesh1802&show_icons=true&theme=dark&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesh1802&layout=compact&theme=dark&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=shreesh1802&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shreesh1802&theme=dark&hide_border=true&v=2" />
 
 </div>
 
